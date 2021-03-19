@@ -4,5 +4,5 @@ Learned following things :-
 1) Typecasting in c++
 2) Find() and replace() functions
 3) Creating nested vector arrays
-4) Concept to use max() instead of (if this > that {that = this})
+4) Concept to use max() instead of (if this > that {that = this}) - [Richest Customer Wealth](https://github.com/Pradeep17Jadhav/100DaysOfCodeChallenge/blob/main/Day%202/Richest%20Customer%20Wealth.cpp) 
 5) Begin(), end(), push_back() functions
